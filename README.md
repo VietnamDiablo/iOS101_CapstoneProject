@@ -32,52 +32,52 @@ A social media for fitness. Allows users to tap in into friends workout sessions
 
 **Required Must-have Stories**
 
-* As an athlete, I want to see how much I have progressed overtime.
-* User can login
-* As an abroad student, I want to see how my friends are working out.
-* As a begginer, I want to know what routines other people are doing.
-* As an athlete, I want to see other variations of training for my injury.
+* [As an athlete, I want to see how much I have progressed overtime.]
+* [User can login]
+* [As an abroad student, I want to see how my friends are working out.+
+* [As a begginer, I want to know what routines other people are doing.]
+* [As an athlete, I want to see other variations of training for my injury.]
 
 **Optional Nice-to-have Stories**
 
-* As a frequent user, I want to know where I am on the leaderboard.
-* As a friend, I want to know where my friends are working out.
+* [As a frequent user, I want to know where I am on the leaderboard.]
+* [As a friend, I want to know where my friends are working out.]
 
 ### 2. Screen Archetypes
 
-- Login
-* User can login
-* User can signup
-- Stream
-* User can look at what other users are doing
-* User can see recommended workout sessions
-- Detail
-* Detail about a friends workout and react to it or save it.
-* Detail about a workout routine the user can try out and save.
-- Creation
-* User can create and journal their workout here. Add workouts, reps, sessions, time, rest time, PR.
-- Profile
-* User can look at their progress, what they have saved, their friends, look at personal records.
+- [ ] [Login]
+* [User can login]
+* [User can signup]
+- [ ] [Stream]
+* [User can look at what other users are doing.]
+* [User can see recommended workout sessions.]
+- [ ] [Detail]
+* [Detail about a friends workout and react to it or save it.]
+* [Detail about a workout routine the user can try out and save.]
+- [ ] [Creation]
+* [User can create and journal their workout here. Add workouts, reps, sessions, time, rest time, PR.]
+- [ ] [Profile]
+* [User can look at their progress, what they have saved, their friends, look at personal records.]
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* Home Feed
-* React to a session
-* Post a session
+* [Home Feed]
+* [React to a session]
+* [Post a session]
 
 **Flow Navigation** (Screen to Screen)
 
-- Login Screen
-* Home
-- Registration Screen
-* Home
-- Stream Screen
-* See reactions to a session.
-* Save the workout routine/session
-- Creation Screen
-* Home
+- [ ] [Login Screen]
+* [Home]
+- [ ] [Registration Screen]
+* [Home]
+- [ ] [Stream Screen]
+* [See reactions to a session.]
+* [Save the workout routine/session]
+- [ ] [Creation Screen]
+* [Home]
 
 ## Wireframes
 
