@@ -82,7 +82,7 @@ A social media for fitness. Allows users to tap in into friends workout sessions
 ## Wireframes
 
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="https://image2url.com/images/1763502668173-4b87b4c1-555c-4341-9197-dbc9688af4dd.heic" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
