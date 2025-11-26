@@ -51,10 +51,10 @@ A social media for fitness. Allows users to tap in into friends workout sessions
 - [ ] [Stream]
 * [User can look at what other users are doing.]
 * [User can see recommended workout sessions.]
-- [ ] [Detail]
+- [x] [Detail]
 * [Detail about a friends workout and react to it or save it.]
 * [Detail about a workout routine the user can try out and save.]
-- [ ] [Creation]
+- [x] [Creation]
 * [User can create and journal their workout here. Add workouts, reps, sessions, time, rest time, PR.]
 - [ ] [Profile]
 * [User can look at their progress, what they have saved, their friends, look at personal records.]
@@ -87,7 +87,14 @@ A social media for fitness. Allows users to tap in into friends workout sessions
 ### [BONUS] Digital Wireframes & Mockups
 
 ### [BONUS] Interactive Prototype
-
+<div>
+    <a href="https://www.loom.com/share/dad408fc41f4447f9e8c2c4a4a600545">
+      <p>Videos | Library | Loom - 25 November 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/dad408fc41f4447f9e8c2c4a4a600545">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/dad408fc41f4447f9e8c2c4a4a600545-6e9896bd4d599480-full-play.gif#t=0.1">
+    </a>
+  </div>
 ## Schema 
 
 [This section will be completed in Unit 9]
